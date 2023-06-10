@@ -26,6 +26,9 @@
   <img align="center" alt="Bruno-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Bruno-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="right"  alt="META" height="130" width="130" style="border-radius:100px;" src="META.png" />                                                               </div> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+</p>                                                                                                     
   
   
   ## 
